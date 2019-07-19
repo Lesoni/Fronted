@@ -1,7 +1,6 @@
-body{
-  background-color:#00c2fa ;
+ body {
+    background: linear-gradient(to bottom, #0000ff 0%, #99ff66 100%);
 }
-
 #lesoniOlive{
   text-align: center;
 }
