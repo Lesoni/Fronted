@@ -1,9 +1,29 @@
- body {
+body {
     background: linear-gradient(to bottom, #0000ff 0%, #99ff66 100%);
 }
+
+a{
+  color: white;  
+}
+
 #lesoniOlive{
+    color: white;  
   text-align: center;
 }
 #projectButton{ 
   text-align: right;
+}
+
+#container{
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+#about{
+  color: white;
+}
+
+#aboutText{
+  width: 380px;
 }
